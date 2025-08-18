@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a Full Stack eCommerce platform using Django.<br>👯 Open to collaborations on innovative web development projects and expanding my network.<br>🌱 Actively learning and staying updated on the latest trends in web development technologies.<br>💬 Ask me about frontend development, Django, or navigating the tech industry.<br>⚡ Fact about me: I love exploring new coding challenges and finding creative solutions to problems.<br>      Let's code together! 🚀
-
+🔎 Currently working on data analysis projects, transforming raw datasets into actionable insights using Python, SQL, Excel, and Power BI.<br>🤝 Open to collaborations on impactful data-driven projects and knowledge-sharing in analytics.<br>📊 Actively learning and exploring advanced concepts in data visualization, statistical analysis, and business intelligence tools.<br>💬 Ask me about SQL queries, Power BI dashboards, Excel analytics, or breaking into the field of Data Analytics.<br>⚡ Fact about me: I enjoy uncovering hidden patterns in data and turning them into meaningful business strategies.<br>      🚀 Let’s analyze data and solve problems together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj_joshi_595) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-joshi021) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anujjoshi595) 
