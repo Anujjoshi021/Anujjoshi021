@@ -7,7 +7,6 @@
 ## 🌐 Github Certification Badges:
 [![My Credly Badge](https://github.com/user-attachments/assets/6fba22af-62eb-4afb-92b6-b6e6d1aed3a0)](https://www.credly.com/badges/ad05adfc-3fda-4fb3-9be3-6a4b604deb41/public_url)
 [![My Credly Badge](https://github.com/user-attachments/assets/1c1a7e0f-a855-4d2b-a5c2-af346cce3ad6)](https://www.credly.com/badges/cd59da04-a600-411f-a23c-162d4cf2152c/public_url)
-[![My Credly Badge](https://github.com/user-attachments/assets/0dd667cc-1f9c-48a5-aa55-3effd2ec780a) ](https://www.credly.com/badges/e9bfecde-6c14-4423-ac28-a30a51a82216/public_url)
 
 # 💻 Tech Stack:
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
